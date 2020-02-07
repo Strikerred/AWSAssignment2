@@ -4,6 +4,15 @@ The Project was built on AWS services and React front end. For images being stor
 
 The React front end manages register, email verification, and log in authentication through cognito an Amazon service. In addition, the app connects to the API that is connected to the Lambda functions. The Lambda functions are connected to the data stored on the DynamoDB which contains the URLs in the S3 bucket as well.
 
+## ReactApp views
+
+![](images/home.png)
+![](images/register.png)
+![](images/login.png)
+![](images/welcome.png)
+![](images/players.png)
+![](images/player.png)
+
 ## 1. Dynamo Database
 
 ![](images/dynamotable.png)
